@@ -1,4 +1,4 @@
-# BUAA Compiler
+# BUAA北京航空航天大学编译原理
 
 BUAA编译课程——2021年秋季
 
